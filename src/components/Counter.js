@@ -48,6 +48,7 @@ STEP 6:
 
 import React from 'react'; /* STEP 0 */
 
+// React component
 export default function Counter() {
   /* STEP 1 */
 
